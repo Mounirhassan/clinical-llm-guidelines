@@ -62,10 +62,8 @@ If you find these guidelines helpful, you might be interested in my published wo
 ### 🧠 Psychology & Human Behavior
 *   **[The Shadow Forge: How to Integrate Your Darkest Traits to Build an Unbreakable Legacy ➡️](https://play.google.com/store/books/details/Mounir_S_Hassan_THE_SHADOW_FORGE?id=HHjZEQAAQBAJ)**
 *   **[The Anesthetic Age: How to Wake Up in a World...➡️](https://play.google.com/store/books/details/Mounir_S_Hassan_THE_ANESTHETIC_AGE?id=eprXEQAAQBAJ)**
-*   **[The Silent Contracts: The Unwritten Rules That... ➡️]
-(https://play.google.com/store/books/details/Mounir_S_Hassan_THE_SILENT_CONTRACTS?id=95jWEQAAQBAJ)**
-*   **[Invisible Strings: How the World Secretly Hacks Your Mind, Wallet, and Free Will ➡️]
-(https://play.google.com/store/books/details/Mounir_Hassan_Invisible_Strings?id=RvrVEQAAQBAJ)**
+*   **[The Silent Contracts: The Unwritten Rules That... ➡️](https://play.google.com/store/books/details/Mounir_S_Hassan_THE_SILENT_CONTRACTS?id=95jWEQAAQBAJ)**
+*   **[Invisible Strings: How the World Secretly Hacks Your Mind, Wallet, and Free Will ➡️](https://play.google.com/store/books/details/Mounir_Hassan_Invisible_Strings?id=RvrVEQAAQBAJ)**
 *   **[Mind Games, How Your Brain Deceives You: The... ➡️](https://play.google.com/store/books/details/Mounir_S_Hassan_Mind_Games_How_Your_Brain_Deceives?id=RUHVEQAAQBAJ)**
 
 
