@@ -49,6 +49,19 @@ When evaluating LLM outputs in clinical scenarios, human reviewers (AI Trainers)
 
 ## 🚀 How to Use
 You can fork this repository or copy the prompt templates directly into your preferred LLM interface (ChatGPT, Claude, Gemini). 
+## 🛒 Available Books & Resources
+
+If you find these guidelines helpful, you might be interested in my published works:
+
+### 📖 Prescriptive AI: The Clinician's Complete Guide to Large Language Models in Healthcare
+*A definitive guide for healthcare professionals on integrating LLMs safely into clinical workflows.*
+*   **[Get it on Google Books ➡️](https://play.google.com/store/books/details/Mounir_S_Hassan_Prescriptive_AI?id=fiHaEQAAQBAJ)**
+
+### 🧠 Invisible Strings: How the World Secretly Hacks Your Mind, Wallet, and Free Will
+*An exploration of behavioral psychology and the hidden mechanics of human decision-making.*
+*   **[Get it on Google Books ➡️](https://play.google.com/store/books/details/Mounir_Hassan_Invisible_Strings?id=RvrVEQAAQBAJ)**
+
+
 
 ## 📬 About the Author
 Created by a Clinical Pharmacist, AI Prompt Engineer, and LLM Evaluator passionate about the safe integration of Artificial Intelligence in healthcare.
