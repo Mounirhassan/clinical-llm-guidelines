@@ -54,6 +54,9 @@ You can fork this repository or copy the prompt templates directly into your pre
 Explore my live dataset samples demonstrating how to evaluate LLMs for clinical safety, hallucination detection, and instruction adherence:
 * **[👉 Click here to view the Clinical RLHF Dataset Sample](Clinical-RLHF-Sample.md)**
 
+### 📖 Detailed Evaluation Methodology
+Interested in the rubrics and methodology behind this evaluation? Check out my full evaluation framework:
+* **[👉 View Clinical AI Evaluation Framework](https://github.com/Mounirhassan/clinical-ai-evaluation-framework)**
 
 ## 🛒 Available Books & Resources
 
@@ -63,7 +66,7 @@ If you find these guidelines helpful, you might be interested in my published wo
 *A definitive guide for healthcare professionals on integrating LLMs safely into clinical workflows.*
 *   **[Get it on Google Books ➡️](https://play.google.com/store/books/details/Mounir_S_Hassan_Prescriptive_AI?id=fiHaEQAAQBAJ)**
 
-#
+
 
 ### 🧠 Psychology & Human Behavior
 *   **[The Shadow Forge: How to Integrate Your Darkest Traits to Build an Unbreakable Legacy ➡️](https://play.google.com/store/books/details/Mounir_S_Hassan_THE_SHADOW_FORGE?id=HHjZEQAAQBAJ)**
