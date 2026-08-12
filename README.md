@@ -49,6 +49,12 @@ When evaluating LLM outputs in clinical scenarios, human reviewers (AI Trainers)
 
 ## 🚀 How to Use
 You can fork this repository or copy the prompt templates directly into your preferred LLM interface (ChatGPT, Claude, Gemini). 
+
+## 🧬 Clinical AI Evaluation (RLHF)
+Explore my live dataset samples demonstrating how to evaluate LLMs for clinical safety, hallucination detection, and instruction adherence:
+* **[👉 Click here to view the Clinical RLHF Dataset Sample](Clinical-RLHF-Sample.md)**
+
+
 ## 🛒 Available Books & Resources
 
 If you find these guidelines helpful, you might be interested in my published works:
